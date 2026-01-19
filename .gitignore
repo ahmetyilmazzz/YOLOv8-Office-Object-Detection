@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+
+# Zip files
+*.zip
+
+# Model files
+*.pt
+
+# Runs
+runs/
+
+# Dataset
+Dataset/
